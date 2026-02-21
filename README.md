@@ -1,3 +1,7 @@
+## 🔗 Open the Excel File
+
+[![Download Excel](https://img.shields.io/badge/Download%20Excel-Open%20File-2ea44f?style=for-the-badge&logo=microsoft-excel&logoColor=white)](./Business%20Analytics__Project.xlsx)
+
 # 🛒 E-Commerce Funnel Analysis
 
 ## 📌 Project Overview
